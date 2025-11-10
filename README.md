@@ -13,8 +13,8 @@
 **Location:** Sumqayit, Azerbaijan  
 **Email:** yunisalirzali11@gmail.com  
 **Phone:** +994 55 287 22 87
-**LinkedIn:** "https://www.linkedin.com/in/yunis-alirzali-670387397/"
-**GitHub:** https://github.com/…  
+**LinkedIn:** https://www.linkedin.com/in/yunis-alirzali-670387397/
+**GitHub:** https://github.com/Yunis-2011
 
 I am a cybersecurity specialist skilled in network security, vulnerability assessment, and penetration testing. I aim to help organizations enhance their security posture and minimize cyber risks.
 
