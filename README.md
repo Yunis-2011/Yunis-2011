@@ -1,106 +1,130 @@
-# Kiber Təhlükəsizlik Portfeli
+# 🛡️ Kiber Təhlükəsizlik Portfeli
+
+<img src="https://placehold.co/900x200?text=Cyber+Security+Banner" />
 
 ---
 
-## Əlaqə məlumatı
+## 👤 Haqqımda
+
+<img align="right" src="https://placehold.co/180x180?text=Profile" style="border-radius:12px;margin-left:10px;" />
+
 **Ad, Soyad:**  
 **Vəzifə:** Kiber Təhlükəsizlik Mütəxəssisi  
+**Yer:** Bakı, Azərbaycan  
 **E-poçt:** example@domain.com  
 **Telefon:** +994 XX XXX XX XX  
-**LinkedIn / GitHub / Portfolio:** https://linkedin.com/in/… · https://github.com/… · https://portfolio.example.com  
-**Yer:** Bakı, Azərbaycan
+**LinkedIn:** https://linkedin.com/in/…  
+**GitHub:** https://github.com/…  
+
+Mən şəbəkə təhlükəsizliyi, zəifliklərin aşkarlanması və penetrasiya testləri sahəsində biliyə sahib kiber təhlükəsizlik mütəxəssisiyəm. Məqsədim təşkilatların təhlükəsizlik səviyyəsini artırmaq və riskləri minimuma endirməkdir.
 
 ---
 
-## Qısa professional xülasə
-Təhlükəsizlik sahəsində həm praktiki, həm də nəzəri təcrübəyə malik kiber təhlükəsizlik mütəxəssisiyəm. Şəbəkə təhlükəsizliyi, zəifliklərin aşkarlanması və penetrasiya testləri üzrə təcrübəm var. Məqsədim təşkilatların təhlükəsizlik infrastrukturunu gücləndirmək, riskləri azaltmaq və təhlükəsizlik siyasətlərini təkmilləşdirməkdir.
+## ⚙️ Bacarıqlar
+
+| Sahə | Alətlər / Biliklər |
+|------|-------------------|
+| Şəbəkə | TCP/IP, VPN, VLAN, Firewall |
+| Pentest | Nmap, Metasploit, Burp Suite |
+| Sistemlər | Linux (Ubuntu, CentOS), Windows Server |
+| SIEM | ELK Stack, Splunk |
+| Kriptoqrafiya | TLS/SSL, SSH, PKI |
+| Scripting | Python, Bash |
+| Standartlar | ISO 27001, NIST |
+| Digər | Incident Response, Forensics |
 
 ---
 
-## Bacarıqlar
-- **Şəbəkə:** TCP/IP, VPN, VLAN, Firewall konfiqurasiyaları  
-- **Zəiflik analizi & Pentest:** Nmap, Metasploit, Burp Suite, OWASP metodologiyası  
-- **Sistemlər:** Linux (Ubuntu, CentOS), Windows Server, Active Directory  
-- **SIEM & Monitorinq:** ELK (Elasticsearch, Logstash, Kibana), Splunk  
-- **Kriptoqrafiya & Protokollar:** TLS/SSL, PKI, SSH  
-- **Skriptləşdirmə:** Python, Bash  
-- **İdarəetmə & Standartlar:** ISO 27001, NIST, təhlükəsizlik siyasətləri hazırlamaq  
-- **Digər:** Sosial mühəndislik testləri, incident response, forensics əsasları
+## 🎓 Təhsil
+
+**Universitet adı**, Fakültə — Bakalavr/Magistr (İl–İl)  
+*Məsələn: Bakı Dövlət Universiteti, Kompüter Elmləri — Bakalavr (2019–2023)*
+
+<img src="https://placehold.co/800x200?text=University+Image" />
 
 ---
 
-## Təhsil
-**Universitet adı**, Fakültə — Bakalavr/Magistr (İl — İl)  
-Məsələn: Bakı Dövlət Universiteti, Kompüter Elmləri — Bakalavr (2016–2020)
+## 📜 Sertifikatlar
+
+✅ Certified Ethical Hacker (CEH)  
+✅ CompTIA Security+  
+🔄 OSCP (hazırlıq mərhələsində)
+
+<img src="https://placehold.co/700x150?text=Certificates" />
 
 ---
 
-## Sertifikatlar
-- Certified Ethical Hacker (CEH) — (il)  
-- CompTIA Security+ — (il)  
-- Offensive Security Certified Professional (OSCP) — (il)  
-- CISSP — (il)  
-*(Əgər sertifikatınız yoxdursa: "Hazırlıq mərhələsində: CEH" və ya oxşar qeyd edin.)*
+## 💼 İş təcrübəsi
+
+### 🔹 **Security Analyst — ABC Technologies (2022–2024)**
+
+<img src="https://placehold.co/750x200?text=Workplace+Photo" />
+
+- Zəiflik scanning & patching proseslərinin tənzimlənməsi  
+- 30+ insidentin SIEM vasitəsilə analizi  
+- Burp Suite & Nmap ilə veb tətbiq zəifliklərinin aşkarlanması  
+- Düzəliş tövsiyələri və təhlükəsizlik siyasətlərinin yenilənməsi  
 
 ---
 
-## İş təcrübəsi
-**Şirkət adı — Vəzifə** (Ay İl — Ay İl)  
-- Qısa təsvir: üzərində işlədiyiniz əsas sahə/komanda.  
-- Əsas uğurlar: konkret nəticələr və göstəricilər (məsələn, "zəifliklərin 40%-ni aradan qaldırdım").  
-- İstifadə etdiyiniz alətlər və metodologiyalar.
+## 🚀 Layihələr
 
-**Nümunə:**  
-ABC Texnologiya — Security Analyst (03/2022 — 10/2024)  
-- Şəbəkə və server infrastrukturu üçün zəiflik scanning və patching prosesini idarə etdim.  
-- SIEM vasitəsilə hadisələri təhlil edib 30+ insidentin ilkin təhqiqatını apardım.  
-- Burp Suite və Nmap ilə web tətbiq zəifliklərini aşkar edib düzəliş təklif etdim.  
-- Komanda ilə təhlükəsizlik siyasətini yenilədik və əməkdaşlara təlimlər keçdik.
+### 1️⃣ Veb tətbiq penetrasiya testi (Demo SaaS)
+
+<img src="https://placehold.co/650x200?text=Project+1" />
+
+**Məqsəd:** OWASP Top 10 əsasında zəifliklərin analizi  
+**Rol:** Pentester (Burp Suite, SQLmap, manual testlər)  
+**Nəticə:** 8 kritik/orta zəiflik aşkarlandı və PoC təqdim olundu  
 
 ---
 
-## Layihələr
-**1. Veb tətbiq penetrasiya testi (Demo SaaS platforması)**  
-- **Məqsəd:** Veb tətbiqin OWASP Top 10 zəifliklərinə görə test edilməsi.  
-- **Rol:** Pentester — Burp Suite, SQLmap, manual testlər.  
-- **Nəticə:** 8 kritik/orta zəiflik aşkarlandı, PoC və düzəliş təklifləri təqdim edildi.
+### 2️⃣ İç şəbəkə zəiflik skaninqi & segmentasiya
 
-**2. İç şəbəkə zəiflik skaninqi və segmentasiya layihəsi**  
-- **Məqsəd:** Daxili şəbəkədə lateral hərəkəti məhdudlaşdırmaq.  
-- **Rol:** Layihə rəhbəri — VLAN planlaması, firewall qaydalarının yenilənməsi.  
-- **Nəticə:** Lateral risklər xeyli azaldıldı; icra sonrası testlər müsbət nəticə göstərdi.
+<img src="https://placehold.co/650x200?text=Project+2" />
 
-**3. SIEM inteqrasiyası və log monitoring**  
-- **Məqsəd:** Logların mərkəzləşdirilməsi və real-time monitorinq.  
-- **Rol:** İnteqrasiya və qayda yazılması — ELK/Splunk.  
-- **Nəticə:** Təhlükəsizlik hadisələrinin aşkar olunma və reaksiyası sürətlənib.
+**Məqsəd:** Lateral hərəkətin məhdudlaşdırılması  
+**Rol:** VLAN & Firewall planlaması  
+**Nəticə:** Segmentasiya nəticəsində risklər əhəmiyyətli dərəcədə azaldıldı  
 
 ---
 
-## Əlavə fəaliyyətlər və təlimlər
-- Təhlükəsizlik seminarları və konfranslara qatılma (adlar və tarixlər əlavə edin).  
-- Açıq mənbə layihələrdə iştirak — GitHub linkləri əlavə edin.  
-- İş yoldaşlarına və yeni işçilərə daxili təhlükəsizlik təlimləri keçmək.
+### 3️⃣ SIEM inteqrasiyası və log monitorinqi
+
+<img src="https://placehold.co/650x200?text=Project+3" />
+
+**Məqsəd:** Logların mərkəzləşdirilmiş analizi  
+**Rol:** ELK/Splunk qayda yazılması  
+**Nəticə:** Hadisələrə reaksiya müddəti 30% azaldı  
 
 ---
 
-## Dil bilikləri
-- Azərbaycan dili — Ana dili  
-- İngilis dili — (səviyyə: başlanğıc / orta / yaxşı / peşəkar)  
-- Rus dili — (əgər varsa qeyd edin)
+## 🧠 Dil bilikləri
+
+| Dil | Səviyyə |
+|-----|---------|
+| Azərbaycan dili | Ana dil |
+| İngilis dili | Orta / Yaxşı / Peşəkar |
+| Rus dili | Orta |
 
 ---
 
-## Tövsiyələr (References)
-Tələb olunduqda təqdim ediləcək. (Ad, Vəzifə, Şirkət, Əlaqə — daxil edin.)
+## 🌐 Əlavə fəaliyyətlər
+
+- Təhlükəsizlik təlim və seminarlarında iştirak  
+- Açıq mənbə töhfələri (GitHub link əlavə edin)  
+- Daxili komandalara təhlükəsizlik təlimləri keçmək  
+
+<img src="https://placehold.co/900x200?text=Cyber+Conference" />
 
 ---
 
-## Qeydlər / Məsləhətlər (Sizə uyğun doldurmaq üçün)
-1. Hər iş və layihə üçün konkret rəqəmlər və nəticələr əlavə edin (məsələn, tapılan zəiflik sayı, vaxt qısaaldılması, riskin azaldılması faizi).  
-2. GitHub və ya portfolio linklərinizi layihələrin PoC və hesabatları ilə əlaqələndirin.  
-3. Əgər varsa, PoC (proof-of-concept) nümunələri və ya CV-yə əlavə edilə biləcək qısa hesabat faylları əlavə edin.  
+## 📎 Tövsiyələr
+**Tələb olunduqda təqdim ediləcək**
 
 ---
 
-**Uğurlar!** Əgər istəyirsinizsə, mən portfeli sizin real məlumatlarınıza görə doldurub `.md` faylı üçün tam hazır versiya hazırlaya bilərəm — məlumatları (Ad, təhsil, iş təcrübəsi, layihələr və s.) göndərin.
+> 💡 **Qeyd:**  
+Burada olan bütün şəkilləri öz şəkliniz, iş yeriniz və layihə screenshotları ilə əvəz edib portfolionu daha da gücləndirə bilərsiniz.  
+
+**Uğurlar!**
