@@ -8,12 +8,12 @@
 
 <img align="right" src="https://placehold.co/180x180?text=Profile" style="border-radius:12px;margin-left:10px;" />
 
-**Name:**  
-**Position:** Cybersecurity Specialist  
-**Location:** Baku, Azerbaijan  
-**Email:** example@domain.com  
-**Phone:** +994 XX XXX XX XX  
-**LinkedIn:** https://linkedin.com/in/…  
+**Name:** Yunis Alirzali 
+**Position:** Cybersecurity 
+**Location:** Sumqayit, Azerbaijan  
+**Email:** yunisalirzali11@gmail.com  
+**Phone:** +994 55 287 22 87
+**LinkedIn:** "https://www.linkedin.com/in/yunis-alirzali-670387397/"
 **GitHub:** https://github.com/…  
 
 I am a cybersecurity specialist skilled in network security, vulnerability assessment, and penetration testing. I aim to help organizations enhance their security posture and minimize cyber risks.
@@ -103,9 +103,9 @@ I am a cybersecurity specialist skilled in network security, vulnerability asses
 
 | Language | Proficiency |
 |----------|-------------|
-| Azerbaijani | Native |
-| English | Intermediate / Good / Professional |
-| Russian | Intermediate |
+| Azerbaijani | Main language |
+| English | Good  |
+| Turkish | Good |
 
 ---
 
