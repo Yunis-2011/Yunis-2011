@@ -1,6 +1,6 @@
 # 🛡️ Kiber Təhlükəsizlik Portfeli
 
-<img src="https://placehold.co/900x200?text=Cyber+Security+Banner" />
+<img src="https://i.pinimg.com/736x/41/a4/eb/41a4ebf06562ed92564e56fc5af8cd88.jpg" />
 
 ---
 
