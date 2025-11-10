@@ -1,130 +1,130 @@
-# 🛡️ Kiber Təhlükəsizlik Portfeli
+# 🛡️ Cybersecurity Portfolio
 
 <img src="https://i.pinimg.com/736x/41/a4/eb/41a4ebf06562ed92564e56fc5af8cd88.jpg" />
 
 ---
 
-## 👤 Haqqımda
+## 👤 About Me
 
 <img align="right" src="https://placehold.co/180x180?text=Profile" style="border-radius:12px;margin-left:10px;" />
 
-**Ad, Soyad:**  
-**Vəzifə:** Kiber Təhlükəsizlik Mütəxəssisi  
-**Yer:** Bakı, Azərbaycan  
-**E-poçt:** example@domain.com  
-**Telefon:** +994 XX XXX XX XX  
+**Name:**  
+**Position:** Cybersecurity Specialist  
+**Location:** Baku, Azerbaijan  
+**Email:** example@domain.com  
+**Phone:** +994 XX XXX XX XX  
 **LinkedIn:** https://linkedin.com/in/…  
 **GitHub:** https://github.com/…  
 
-Mən şəbəkə təhlükəsizliyi, zəifliklərin aşkarlanması və penetrasiya testləri sahəsində biliyə sahib kiber təhlükəsizlik mütəxəssisiyəm. Məqsədim təşkilatların təhlükəsizlik səviyyəsini artırmaq və riskləri minimuma endirməkdir.
+I am a cybersecurity specialist skilled in network security, vulnerability assessment, and penetration testing. I aim to help organizations enhance their security posture and minimize cyber risks.
 
 ---
 
-## ⚙️ Bacarıqlar
+## ⚙️ Skills
 
-| Sahə | Alətlər / Biliklər |
-|------|-------------------|
-| Şəbəkə | TCP/IP, VPN, VLAN, Firewall |
-| Pentest | Nmap, Metasploit, Burp Suite |
-| Sistemlər | Linux (Ubuntu, CentOS), Windows Server |
+| Category | Tools / Knowledge |
+|----------|------------------|
+| Networking | TCP/IP, VPN, VLAN, Firewall |
+| Pentesting | Nmap, Metasploit, Burp Suite |
+| Operating Systems | Linux (Ubuntu, CentOS), Windows Server |
 | SIEM | ELK Stack, Splunk |
-| Kriptoqrafiya | TLS/SSL, SSH, PKI |
+| Cryptography | TLS/SSL, SSH, PKI |
 | Scripting | Python, Bash |
-| Standartlar | ISO 27001, NIST |
-| Digər | Incident Response, Forensics |
+| Standards | ISO 27001, NIST |
+| Other | Incident Response, Forensics |
 
 ---
 
-## 🎓 Təhsil
+## 🎓 Education
 
-**Universitet adı**, Fakültə — Bakalavr/Magistr (İl–İl)  
-*Məsələn: Bakı Dövlət Universiteti, Kompüter Elmləri — Bakalavr (2019–2023)*
+**University Name**, Faculty — Bachelor/Master (Year–Year)  
+*Example: Baku State University, Computer Science — Bachelor (2019–2023)*
 
 <img src="https://placehold.co/800x200?text=University+Image" />
 
 ---
 
-## 📜 Sertifikatlar
+## 📜 Certifications
 
 ✅ Certified Ethical Hacker (CEH)  
 ✅ CompTIA Security+  
-🔄 OSCP (hazırlıq mərhələsində)
+🔄 OSCP (in progress)
 
 <img src="https://placehold.co/700x150?text=Certificates" />
 
 ---
 
-## 💼 İş təcrübəsi
+## 💼 Work Experience
 
 ### 🔹 **Security Analyst — ABC Technologies (2022–2024)**
 
 <img src="https://placehold.co/750x200?text=Workplace+Photo" />
 
-- Zəiflik scanning & patching proseslərinin tənzimlənməsi  
-- 30+ insidentin SIEM vasitəsilə analizi  
-- Burp Suite & Nmap ilə veb tətbiq zəifliklərinin aşkarlanması  
-- Düzəliş tövsiyələri və təhlükəsizlik siyasətlərinin yenilənməsi  
+- Managed vulnerability scanning & patching processes  
+- Analyzed 30+ incidents via SIEM  
+- Discovered web application vulnerabilities using Burp Suite & Nmap  
+- Provided remediation recommendations and updated security policies  
 
 ---
 
-## 🚀 Layihələr
+## 🚀 Projects
 
-### 1️⃣ Veb tətbiq penetrasiya testi (Demo SaaS)
+### 1️⃣ Web Application Penetration Testing (Demo SaaS)
 
 <img src="https://placehold.co/650x200?text=Project+1" />
 
-**Məqsəd:** OWASP Top 10 əsasında zəifliklərin analizi  
-**Rol:** Pentester (Burp Suite, SQLmap, manual testlər)  
-**Nəticə:** 8 kritik/orta zəiflik aşkarlandı və PoC təqdim olundu  
+**Objective:** Assessment based on OWASP Top 10  
+**Role:** Pentester (Burp Suite, SQLmap, manual testing)  
+**Result:** Identified 8 critical/medium vulnerabilities and delivered PoC  
 
 ---
 
-### 2️⃣ İç şəbəkə zəiflik skaninqi & segmentasiya
+### 2️⃣ Internal Network Vulnerability Scanning & Segmentation
 
 <img src="https://placehold.co/650x200?text=Project+2" />
 
-**Məqsəd:** Lateral hərəkətin məhdudlaşdırılması  
-**Rol:** VLAN & Firewall planlaması  
-**Nəticə:** Segmentasiya nəticəsində risklər əhəmiyyətli dərəcədə azaldıldı  
+**Objective:** Limit lateral movement  
+**Role:** VLAN & Firewall design  
+**Result:** Segmentation significantly reduced internal risk  
 
 ---
 
-### 3️⃣ SIEM inteqrasiyası və log monitorinqi
+### 3️⃣ SIEM Integration & Log Monitoring
 
 <img src="https://placehold.co/650x200?text=Project+3" />
 
-**Məqsəd:** Logların mərkəzləşdirilmiş analizi  
-**Rol:** ELK/Splunk qayda yazılması  
-**Nəticə:** Hadisələrə reaksiya müddəti 30% azaldı  
+**Objective:** Centralized log analytics  
+**Role:** ELK/Splunk rule configuration  
+**Result:** Incident response time reduced by 30%  
 
 ---
 
-## 🧠 Dil bilikləri
+## 🧠 Languages
 
-| Dil | Səviyyə |
-|-----|---------|
-| Azərbaycan dili | Ana dil |
-| İngilis dili | Orta / Yaxşı / Peşəkar |
-| Rus dili | Orta |
+| Language | Proficiency |
+|----------|-------------|
+| Azerbaijani | Native |
+| English | Intermediate / Good / Professional |
+| Russian | Intermediate |
 
 ---
 
-## 🌐 Əlavə fəaliyyətlər
+## 🌐 Additional Activities
 
-- Təhlükəsizlik təlim və seminarlarında iştirak  
-- Açıq mənbə töhfələri (GitHub link əlavə edin)  
-- Daxili komandalara təhlükəsizlik təlimləri keçmək  
+- Participation in cybersecurity trainings & workshops  
+- Open-source contributions (add GitHub links)  
+- Conducted internal cybersecurity awareness sessions  
 
 <img src="https://placehold.co/900x200?text=Cyber+Conference" />
 
 ---
 
-## 📎 Tövsiyələr
-**Tələb olunduqda təqdim ediləcək**
+## 📎 References
+**Available upon request**
 
 ---
 
-> 💡 **Qeyd:**  
-Burada olan bütün şəkilləri öz şəkliniz, iş yeriniz və layihə screenshotları ilə əvəz edib portfolionu daha da gücləndirə bilərsiniz.  
+> 💡 **Note:**  
+You can enhance this portfolio by replacing placeholders with real images, workplace photos, and screenshots of your projects.
 
-**Uğurlar!**
+**Good luck!** ✅
