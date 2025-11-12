@@ -55,6 +55,11 @@ I am a cybersecurity specialist skilled in network security, vulnerability asses
 
 <img src="./assets/20251110-193055_page-0001.jpg" />
 <img src="./assets/20251110-193605_page-0001.jpg" />
+<img src="./assets/20251110-193707_page-0001.jpg" />
+<img src="./assets/20251110-193826_page-0001.jpg" />
+<img src="./assets/20251110-194030_page-0001.jpg" />
+<img src="./assets/20251110-194137_page-0001.jpg" />
+<img src="./assets/20251110-194330_page-0001.jpg" />
 
 ---
 
