@@ -53,7 +53,7 @@ I am a cybersecurity specialist skilled in network security, vulnerability asses
 ✅ CompTIA Security+  
 🔄 OSCP (in progress)
 
-<img src="./assets/" />
+<img src="./assets/20251110-193055_page-0001.jpg" />
 
 ---
 
