@@ -54,6 +54,7 @@ I am a cybersecurity specialist skilled in network security, vulnerability asses
 🔄 OSCP (in progress)
 
 <img src="./assets/20251110-193055_page-0001.jpg" />
+<img src="./assets/20251110-193605_page-0001.jpg" />
 
 ---
 
