@@ -3,25 +3,104 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>README görüntüləyici</title>
+  <title>README Viewer</title>
 
   <style>
-    body { font-family: system-ui, Arial; max-width: 900px; margin: 3rem auto; padding: 0 1rem; line-height: 1.6; background:#f7fbff; }
-    h1 { font-size: 1.4rem; margin-bottom: 1rem; }
-    pre, code { background:#0f172a; color:#e2e8f0; padding:4px 6px; border-radius:6px; }
-    img { max-width: 100%; }
-    .box { background:white; padding:20px; border-radius:12px; box-shadow:0 3px 20px rgba(0,0,0,0.08); }
-    #status { color:#555; margin-bottom:1rem; }
+    /* ===== GENERAL DESIGN ===== */
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, sans-serif;
+      background: linear-gradient(135deg, #d4d4d4, #b9b9b9);
+      min-height: 100vh;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+
+    /* ===== CARD (COOL GLASS EFFECT) ===== */
+    .card {
+      width: 900px;
+      background: rgba(255, 255, 255, 0.20);
+      padding: 25px 35px;
+      border-radius: 20px;
+      backdrop-filter: blur(18px);
+      box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+      animation: fadeIn 0.7s ease;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ===== HEADER ===== */
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: #1c1c1c;
+      letter-spacing: -0.5px;
+      font-weight: 700;
+    }
+
+    #status {
+      color: #3d3d3d;
+      font-size: 1rem;
+      margin-bottom: 15px;
+      font-weight: 500;
+    }
+
+    /* ===== MARKDOWN STYLING ===== */
+    article {
+      font-size: 1rem;
+      color: #1a1a1a;
+      line-height: 1.65;
+    }
+
+    pre {
+      background: #1e1e1e;
+      color: #e2e8f0;
+      padding: 14px;
+      border-radius: 12px;
+      overflow-x: auto;
+      font-size: 0.95rem;
+    }
+
+    code {
+      background: #1e1e1e;
+      color: #e2e8f0;
+      padding: 4px 7px;
+      border-radius: 6px;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin: 10px 0;
+    }
+
+    a {
+      color: #0047ff;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
+
 <body>
 
-  <h1>README.md Viewer</h1>
-  <div class="box">
+  <div class="card">
+    <h1>📄 README Viewer</h1>
     <div id="status">Loading README.md…</div>
     <article id="readme"></article>
   </div>
 
+  <!-- Markdown Parser -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <script>
@@ -37,7 +116,7 @@
 
         const md = await res.text();
         contentEl.innerHTML = marked.parse(md);
-        statusEl.textContent = "README loaded successfully.";
+        statusEl.textContent = "README loaded ✓";
       } catch (e) {
         statusEl.innerHTML = "Error loading README.md:<br>" + e;
       }
